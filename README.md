@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web, API and Mobile Automation Testing
 - 🌱 I’m currently learning AWS and Azure Cloud Automation Testing
 - 💞️ I’m looking to collaborate on Selenium WebDriver and Mobile Automation using Appium
-- 📫 How to reach me on nik.thak22@gmail.com
+- 📫 Reach me on nik.thak22@gmail.com
 
 <!---
 Nikunj-Thakur/Nikunj-Thakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
